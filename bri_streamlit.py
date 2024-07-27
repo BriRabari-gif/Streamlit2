@@ -9,5 +9,7 @@ Original file is located at
 
 import streamlit as st
 
+# PAGE TITLE
+st.set_page_config(page_title="quête semaine 17", layout='wide')
 st.title('Hello Wilders, welcome to my application!')
 st.write("test mia-à-jour")
